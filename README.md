@@ -1,4 +1,4 @@
-# Alejandro React
+# Alejandro M. (React)
 - 👋 Hi, I’m @alejandroreact, fullstack developer
 - 👀 I’m interested in React, Node, Express, Redux, TypeScript, Javascript,  Html, CSS, Scss
 - 🌱 I’m currently learning about Microservices
